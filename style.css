@@ -3,8 +3,8 @@
     padding: 0;
   }
   .container {
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
     margin-top: 0px;
   }
 header {
@@ -101,12 +101,16 @@ main {
 li {
     font-size: 20px;
 }
-.ul-hard li, .ul-courses li, .ul-soft li {
+.ul-hard li, .ul-courses li, .ul-soft li, .ul-more li, .ul-more2 li,.ul-work li {
     font-size: 22px;
     padding: 5px 10px;
 
 }
-.ul-hard, .ul-courses, .ul-soft {
+.ul-hard, .ul-courses, .ul-soft, .ul-more, .ul-more2, .ul-work {
     display: inline-block;
     margin-left: 110px;
     }
+.more, .more2 {
+    vertical-align: top;
+    display: inline-block;
+}
