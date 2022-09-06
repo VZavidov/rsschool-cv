@@ -66,6 +66,7 @@ h3{
     padding-top: 15px;
     color: rgba(1,119,215,1);
     font-size: 24px;
+    padding-bottom: 5px;
 }
 h4 {
 
@@ -101,12 +102,12 @@ main {
 li {
     font-size: 20px;
 }
-.ul-hard li, .ul-courses li, .ul-soft li, .ul-more li, .ul-more2 li,.ul-work li {
+.ul-hard li, .ul-courses li, .ul-soft li, .ul-more li, .ul-more2 li,.ul-work li, .ul-contacts li {
     font-size: 22px;
     padding: 5px 10px;
 
 }
-.ul-hard, .ul-courses, .ul-soft, .ul-more, .ul-more2, .ul-work {
+.ul-hard, .ul-courses, .ul-soft, .ul-more, .ul-more2, .ul-work,.ul-contacts {
     display: inline-block;
     margin-left: 110px;
     }
