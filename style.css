@@ -134,7 +134,7 @@ a {
     border-radius: 0 0 15px 15px;
     transition: .3s;
 }
-a:visited, a:active, .ul-contacts li a, h2, h3, h4, .ul-nav li {
+a:visited, a:active, .ul-contacts li a, h2, h3, h4, .ul-nav li, li, p {
     color: rgba(1,119,215,1);
 }
 html {
