@@ -1,1 +1,1 @@
-https://vzavidov.github.io/rsschool-cv/cv
+vzavidov-JSFE2022Q3
