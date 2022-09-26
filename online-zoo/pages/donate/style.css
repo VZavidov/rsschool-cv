@@ -1,0 +1,163 @@
+*{
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    width: 1600px;
+    margin: 0 auto
+}
+.main-container{
+    width: 1600px;
+    height: 570px;
+    margin: 0 auto;
+    background-image:  url("../../assets/images/Giant Panda.png");
+}
+.header {
+    display: flex;
+    background-color: black;
+    justify-content: flex-start;
+    align-items: center;
+    height: 80px;
+}
+header a {
+    text-decoration: none;
+    color: white;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    width: 500px;
+    margin-left: 63px;
+}
+.logo{
+    margin-top: 14px;
+    margin-left: 220px;
+    margin-bottom: 14px;
+    margin-right: 5px;
+}
+.copy{
+    margin-top: 29px;
+    margin-bottom: 29px;
+    margin-left: 438px;
+}
+.main{
+    padding-top: 40px;
+    width: 1600px;
+    height: 1482px;
+    background: linear-gradient(315.75deg, rgba(254, 210, 144, 0.7) 30.06%, #FEBDAB 100.95%, rgba(254, 210, 144, 0.7) 106.36%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%);
+}
+.main-description{
+    color: #fff;
+    margin: 0 auto;
+    padding: 0;
+    padding-left: 220px;
+}
+.main-description > h3{
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 130%;
+    margin: 0 auto;
+    font-style: normal;
+}
+.main-description > p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22.4px;
+    margin: 10px auto 40px auto;
+}
+.main-description-foto{
+    margin: 60px auto 0 auto;
+    width: 1160px;
+    height: 964px;
+    background: rgba(255, 255, 255, 0.52);
+}
+.main-description-foto img{
+    margin: 40px 92px;
+}
+.main-description-h3-orange{
+    color: #FE9013;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 46.8px;
+}
+
+
+footer{
+    background-color: black;
+    height: 443px;
+}
+
+footer a, p{
+    text-decoration: none;
+    color: white;
+}
+.footer-head{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logo{
+    margin-left: 220px;
+    margin-top: 41px;
+}
+.form {
+    color: #fff;
+    font-size: 24px;
+    width: 587px;
+}
+.form h3 {
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+}
+.footer-form{
+    margin-top: 14px;
+}
+input{
+    height: 42px;
+    width: 228px;
+    border: 0.7px solid #F9804B;
+    border-radius: 2px;
+    background-color: #000;
+}
+.footer-button{
+    width: 129px;
+    height: 42px;
+    color: green;
+    border-radius: 5px;
+    border: 1px solid green;
+}
+.button-footer{
+    margin-left: 220px;
+    margin-top: 36px;
+}
+.footer-links{
+    margin-left: 220px;
+    margin-top: 44px;
+}
+
+.footer-nav a{
+    margin-left: 58px;
+}
+.footer-nav{
+    align-self: flex-end;
+}
+.footer-footer{
+    display: flex;
+    justify-content: space-between;
+    align-self: flex-end;
+}
+.footer-copy{
+    margin-right: 220px;
+    font-weight: 100;
+    font-size: 16px;
+    align-self: flex-end;
+}
+.active{
+    color: #F9804B;
+}
+.h1 {
+    display: none;
+}
