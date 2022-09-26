@@ -1,1 +1,1 @@
-https://vzavidov.github.io/rsschool-cv/onine zoo
+https://vzavidov.github.io/rsschool-cv/onine-zoo
